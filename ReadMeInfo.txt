@@ -1,5 +1,6 @@
-//edited by rach
+//edited by rach 
 //my change 2
+//my change 3
 
 tutorial:
 https://github.com/angular/codelabs/tree/homes-app-start
